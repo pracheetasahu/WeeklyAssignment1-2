@@ -75,7 +75,7 @@ public class AutocompleteSystem {
             rank++;
         }
 
-        system.updateFrequency("java 21 features");
+        system.updateFrequency(" java 21 features");
         system.updateFrequency("java 21 features");
         system.updateFrequency("java 21 features");
 
